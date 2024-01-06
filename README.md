@@ -1,1 +1,1 @@
-# ethan-portfolio-starter
+# AdityaG-portfolio-starter
